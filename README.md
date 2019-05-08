@@ -1,2 +1,2 @@
 # 1337code
-Leet code solutions
+[Leet code](https://leetcode.com/problemset/all/) solutions
